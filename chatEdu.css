@@ -59,13 +59,7 @@ body {
     background-color: transparent;
     border: none;
 }
-footer {
-    position: relative; /* Ou position: static */
-    bottom: 0;
-    left: 0;
-    right: 0;
-    /* ... outros estilos ... */
-  }
+
   .container {
     min-height: calc(100vh - 60px); /* Ajustar 60px de acordo com a altura do footer */
   }
